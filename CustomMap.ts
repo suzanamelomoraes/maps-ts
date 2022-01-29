@@ -31,6 +31,12 @@ export class CustomMap {
         lng: mappable.location.lng
       },
     });
+    marker.addListener('click', () => {
+      const infoWindow = new google.maps.InfoWindow({
+        content: 'Hello there',
+      });
+      infoWindow.open(this.googleMap, marker);
+    });
   }
 
 }
