@@ -3,7 +3,7 @@
 An application built with Typescript to practice and improve knowledge on: 
 - Interfaces 
 - Modifiers - hiding functionalities and restricting access 
-- Design Patters
+- Design Patterns
 
 
 This application is part of the "Typescript: The Complete Developer's Guide" course and includes a map that generates random markers based on the latitude and longitude of Users and Companies.
