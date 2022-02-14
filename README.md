@@ -8,7 +8,7 @@ An application built with Typescript to practice and improve knowledge on:
 
 This application is part of the "Typescript: The Complete Developer's Guide" course and includes a map that generates random markers based on the latitude and longitude of Users and Companies.
 
-Please, feel free to contribute with comments, issues or pull requests.
+Please, feel free to contribute with comments, pointing issues or pull requests.
 
 ### Technologies:
 - Typescript
