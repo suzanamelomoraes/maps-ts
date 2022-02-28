@@ -13,7 +13,7 @@ Please, feel free to contribute with comments or pull requests.
 ### Technologies:
 - Typescript
 
-### Applications / Helpers
+### Applications / Helpers / Third libraries
 
 - Parcel
 - Faker
